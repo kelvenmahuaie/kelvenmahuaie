@@ -4,10 +4,10 @@
 <p>🌎 Apaixonado por programação e análise espacial.</p>
 
 <a href="https://github.com/kelvenmahuaie/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=kelvenmahuaie&theme=tokyonight" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=kelvenmahuaie&theme=tokyonight" />
 </a>
 <a href="https://github.com/kelvenmahuaie/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelvenmahuaie&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelvenmahuaie&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
 #
