@@ -1,7 +1,7 @@
 ## Olá, eu sou Kelven Mauaie 👋
 
-<p>💻 Desenvolvedor especializado em SIG e cartografia.</p> 
-<p>🌎 Apaixonado por programação e análise espacial.</p>
+<p>💻 Especialista em Sistema de Informção Geográfica, Sensoreamento Remoto, Cartografia e Base de Dados Espaciais.</p> 
+<p>🌎 Apaixonado por programação e análise geoespacial.</p>
 
 <a href="https://github.com/kelvenmahuaie/github-readme-stats">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=kelvenmahuaie&theme=tokyonight" />
