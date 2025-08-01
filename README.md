@@ -1,6 +1,6 @@
 ## Olá, eu sou Kelven Mauaie 👋
 
-<p>💻 Especialista em Sistema de Informção Geográfica, Sensoreamento Remoto, Cartografia e Base de Dados Espaciais.</p> 
+<p>💻 Especialista em Sistema de Informação Geográfica, Sensoreamento Remoto, Cartografia e Base de Dados Espaciais.</p> 
 <p>🌎 Apaixonado por programação e análise geoespacial.</p>
 
 <a href="https://github.com/kelvenmahuaie/github-readme-stats">
