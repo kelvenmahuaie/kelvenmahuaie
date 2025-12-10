@@ -3,11 +3,13 @@
 <p>💻 Especialista em Sistema de Informação Geográfica, Sensoreamento Remoto, Cartografia e Base de Dados Espaciais.</p> 
 <p>🌎 Apaixonado por programação e análise geoespacial.</p>
 
-<a href="https://github.com/kelvenmahuaie/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=kelvenmahuaie&theme=tokyonight" />
+<a href="https://github.com/kelvenmahuaie">
+  <img height="190" align="center"
+       src="https://github‑readme‑stats.zcy.dev/api?username=kelvenmahuaie&theme=tokyonight" />
 </a>
-<a href="https://github.com/kelvenmahuaie/convoychat">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelvenmahuaie&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+<a href="https://github.com/kelvenmahuaie">
+  <img height="190" align="center"
+       src="https://github‑readme‑stats.zcy.dev/api/top-langs?username=kelvenmahuaie&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
 #
